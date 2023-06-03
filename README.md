@@ -1,4 +1,4 @@
-# Basic Text Editor
+# Text Editor
 
 Welcome to my Text editor project! This project is a simple text editor built using the Python `tkinter` library. It provides basic functionalities such as cut, copy, paste, edit, delete, and save.
 
